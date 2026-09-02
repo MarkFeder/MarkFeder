@@ -15,7 +15,7 @@
 ## 👋 About Me
 
 - 🎮 Senior Software Engineer with **10+ years** shipping production software end to end, from AAA game UI on **Unreal** and **Frostbite** to full stack backends and a real time mobile app built solo.
-- 🕹️ Currently leading UI systems for **StormLancers** (ProbablyMonsters) and contributing on chain programs to the **Solana Foundation**.
+- 🕹️ Currently leading UI systems at **Companion Group** and contributing on chain programs to the **Solana Foundation**.
 - 🌍 Deep experience in large scale UI architecture, internationalization across **15+ languages** (bidirectional and complex scripts), and reliable backend services.
 - 🦀 Fluent across **C++, C#, TypeScript, Python, and Rust**, comfortable owning a feature from architecture through release.
 - 📫 Reach me at **m.arjona@outlook.com**
